@@ -21,7 +21,7 @@ CREATE TABLE EMP
         DEPTNO NUMBER(2));
 
 INSERT INTO EMP VALUES
-        (7369, 'SMITH',  'CLERK',     7902,
+        (7369, 'vatsal',  'patel',     7902,
         TO_DATE('17-MAR-1980', 'DD-MON-YYYY'),  800, NULL, 20);
 INSERT INTO EMP VALUES
         (7499, 'ALLEN',  'SALESMAN',  7698,
